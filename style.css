@@ -21,7 +21,7 @@ body {
 .task label {
     flex-grow: 1;
 }
-.delete-button {
+.complete-button {
     background-color: #f44336;
     color: white;
     border: none;
