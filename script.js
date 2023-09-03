@@ -9,7 +9,7 @@ function addTask() {
     taskItem.classList.add("task");
     taskItem.innerHTML = `
         <label>${taskText}</label>
-        <button class="complete-button" onclick="completeTask(this)">Delete</button>
+        <button class="complete-button" onclick="completeTask(this)">✅</button>
     `; 
 
     taskList.appendChild(taskItem);
