@@ -26,7 +26,6 @@ body {
     flex-grow: 1;
 }
 .complete-button {
-    background-color: black;
     border-radius: 50%;
     border: none;
     padding: 5px 10px;
